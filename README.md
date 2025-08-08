@@ -1,7 +1,7 @@
 # zsh_config_manager.sh
 
 ![Version](https://img.shields.io/badge/version-0.0.2-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
+![License](https://img.shields.io/badge/license-Unlicense-green.svg)
 ![Platform](https://img.shields.io/badge/platform-macos%20%7C%20linux-lightgrey.svg)
 ![Size](https://img.shields.io/badge/size-5KB-green.svg)
 ![Bilingual](https://img.shields.io/badge/bilingual-EN%20%7C%20CN-blue.svg)
